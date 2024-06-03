@@ -1,0 +1,9 @@
+Step 1:
+$ pip3 install phonenumbers
+
+Step 2:
+$ gedit GhostTrace 
+ Now you can copy and paste the script into the window that has popped up & click save 
+
+To run the tool 
+$ python3 GhostTrace
